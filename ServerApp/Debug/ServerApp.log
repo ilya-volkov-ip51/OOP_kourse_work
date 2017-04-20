@@ -1,0 +1,8 @@
+﻿  fileList.cpp
+..\ClientApplication\fileList.cpp(77): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  ServerForm.cpp
+ServerForm.cpp(6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  client.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  ServerApp.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\OOP_kourse_work\Debug\ServerApp.exe
+  ServerApp.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\OOP_kourse_work\Debug\ServerApp.pdb (Partial PDB)

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="fileList" Collapsed="true">
+    <Position X="3.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAgAQAAAABAAAAgBAAAAQAAIAgAAAAAAAAAA=</HashCode>
+      <FileName>fileList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="getFile" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAEAACAAhAAAAAAAAAQACAEAAAEAAAA=</HashCode>
+      <FileName>getFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="sendFile" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAQAAAACAAAAAAAAAAAgAAAIAAAAAAAAA=</HashCode>
+      <FileName>sendFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="transferFile" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAIAAAAgGAAAAAAAAAEAAAABIBEAAAAIAA=</HashCode>
+      <FileName>transferFile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="stringArray" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAIAAAAAgAEAAAAAAAAAAAgGAAA=</HashCode>
+      <FileName>stringArray.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

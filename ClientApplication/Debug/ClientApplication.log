@@ -1,0 +1,9 @@
+﻿  client.cpp
+client.cpp(5): fatal error C1083: Cannot open include file: 'getFile.h': No such file or directory
+  getFile.cpp
+c1xx : fatal error C1083: Cannot open source file: 'getFile.cpp': No such file or directory
+  sendFile.cpp
+c1xx : fatal error C1083: Cannot open source file: 'sendFile.cpp': No such file or directory
+  server.cpp
+c:\users\user\documents\visual studio 2015\projects\oop_kourse_work\clientapplication\server.h(3): fatal error C1083: Cannot open include file: 'sendFile.h': No such file or directory
+  Generating Code...
